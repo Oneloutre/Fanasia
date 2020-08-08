@@ -1,5 +1,5 @@
 
 
-# Bienvenue sur la page d'aide du Fanasia
+# Bienvenue sur la page d'aide dume Fanasia
 
-![Logo du PunkAbot](https://media.discordapp.net/attachments/738873501666115595/738876016705142904/ahe.png?size=1024)
+![Bannière Fanasia](https://media.discordapp.net/attachments/738873501666115595/738876016705142904/ahe.png?size=1024)
